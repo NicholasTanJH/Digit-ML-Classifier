@@ -7,6 +7,7 @@ import base64
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import os
 
 app = Flask(__name__)
 model = keras.models.load_model('digitModel.keras')
