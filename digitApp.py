@@ -10,9 +10,7 @@ import matplotlib.pyplot as plt
 import os
 
 app = Flask(__name__)
-print("Current working dir:", os.getcwd())
-print("Files in dir:", os.listdir())
-model = keras.models.load_model('digitModel.keras')
+model = keras.models.load_model('digitModel.h5')
 
 @app.route("/")
 def hello_world():
