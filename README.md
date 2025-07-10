@@ -4,6 +4,7 @@ A simple website where users can draw a digit (0–9), and a machine learning mo
 
 ## 🚀 Live Demo
 
+Click this link to see the project
 [Deployed on Render](https://digit-ml-classifier.onrender.com)  
 *(May take a few seconds to load on free hosting)*
 
