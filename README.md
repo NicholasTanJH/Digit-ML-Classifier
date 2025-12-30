@@ -8,8 +8,12 @@ Click this link to play with the project:
 [Deployed on Render](https://digit-ml-classifier.onrender.com)  
 *(May take a few minutes to load on free hosting)*
 
-<img src="demo_images/demo1.png" alt="Example Demo 1" width="220" />
-<img src="demo_images/demo2.png" alt="Example Demo 2" width="220" />
+<table>
+	<tr>
+		<td><img src="demo_images/demo1.png" alt="Example Demo 1" width="220" /></td>
+		<td><img src="demo_images/demo2.png" alt="Example Demo 2" width="220" /></td>
+	</tr>
+</table>
 
 ## 🧠 Model
 
